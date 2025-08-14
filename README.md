@@ -21,7 +21,7 @@ A simple JavaScript project that fetches user data from the [JSONPlaceholder API
 
 ---
 ## Preview
-_![Website Preview](./ss1.jpg)
+_![Website Preview](./ss1.png)
 
 ## Author
 - Aditi Bhatt - Frontend Developer
